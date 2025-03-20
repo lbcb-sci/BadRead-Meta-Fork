@@ -1,3 +1,14 @@
+## About
+
+This project, BadRead-Meta-Fork, is a modified version of [Badread](https://github.com/rrwick/Badread). Many thanks to Ryan Wick for developing and sharing Badread under the GNU General Public License v3 (GPL-3.0), which made this work possible.
+
+This modified version follows the same GPL-3.0 license and includes the following changes:
+
+- Removed generation of quality scores
+- Removed output of actual identity and identity-based quality scores
+
+---
+
 <p align="center"><picture><source srcset="images/logo-dark.png" media="(prefers-color-scheme: dark)"><img src="images/logo.png" alt="Badread" width="75%"></picture></p>
 
 Badread is a long-read simulator tool that makes – you guessed it – bad reads! It can imitate many kinds of problems one might encounter in real long-read sets: chimeras, low-quality regions, systematic basecalling errors and more.

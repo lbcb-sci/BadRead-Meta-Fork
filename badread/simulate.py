@@ -12,6 +12,14 @@ in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the i
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
 details. You should have received a copy of the GNU General Public License along with Badread.
 If not, see <http://www.gnu.org/licenses/>.
+
+Modifications by Dominik Stanojević (dominik.stanojevic@outlook.com)
+Date: 2025-03-20
+Modifications:
+- Removed generation of quality scores
+- Removed output of actual identity and identity by quality scores
+
+This modified version is distributed under the same GNU General Public License v3 (or later).
 """
 
 import edlib
